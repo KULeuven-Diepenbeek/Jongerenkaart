@@ -1,0 +1,17 @@
+.git
+.idea
+.vscode
+node_modules
+vendor
+src/node_modules
+src/vendor
+src/storage/logs/*.log
+src/.env
+src/.env.*
+!src/.env.example
+data/mongodb
+data/meilisearch/db
+data/public-assets
+data/caddy
+data/portainer
+inventaris_sociale_kaart.organisaties.json

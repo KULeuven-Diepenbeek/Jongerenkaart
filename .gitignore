@@ -1,0 +1,12 @@
+/data/mongodb/
+/data/mongodb.*/
+/data/meilisearch/db/
+/data/public-assets/*
+!/data/public-assets/.gitkeep
+/data/caddy/
+/data/portainer/
+/docker/caddy/sites/*.caddy
+/src/.env
+/src/vendor/
+/src/node_modules/
+/src/storage/logs/*.log

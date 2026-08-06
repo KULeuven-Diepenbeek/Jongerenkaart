@@ -1,0 +1,6 @@
+{$APP_URL} {
+	encode zstd gzip
+	reverse_proxy nginx:80
+}
+
+import sites/*
